@@ -1,0 +1,9 @@
+body:link, body:visited {
+  color: gray;
+  text-decoration: none;
+}
+
+body:hover, body:active {
+  color: cyan;
+  text-decoration: bold;
+}
