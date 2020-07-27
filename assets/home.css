@@ -1,9 +1,9 @@
-a:link, a:visited {
+.link:link, .link:visited {
   color: gray;
   text-decoration: none;
 }
 
-a:hover, a:active {
+.link:hover, .link:active {
   color: cyan;
   text-decoration: bold;
 }
