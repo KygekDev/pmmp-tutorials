@@ -4,6 +4,6 @@
 }
 
 .link:hover, .link:active {
-  color: cyan;
-  text-decoration: bold;
+  color: blue;
+  text-decoration: none;
 }
