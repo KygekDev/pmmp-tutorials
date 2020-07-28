@@ -11,7 +11,11 @@ body {
 
 .subtitle {
     text-align: center;
-    line-height: 20px;
+    line-height: 10px;
+}
+
+.nav {
+    text-align: center;
 }
 
 .link:link, .link:visited {
