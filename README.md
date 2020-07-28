@@ -1,2 +1,2 @@
-# pocketmine-mp
-Kygekraqmak's Tutorials About PocketMine-MP
+# http://pmmptutorials.ddns.net/
+PocketMine-MP Tutorials by Kygekraqmak
