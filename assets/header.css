@@ -7,23 +7,19 @@ body {
 .title {
     text-align: center;
     line-height: 20px;
-    font-size: 2em;
-    font-weight: bolder;
 }
 
 .subtitle {
     text-align: center;
     line-height: 20px;
-    font-size: 1em;
-    font-weight: bolder;
 }
 
 .link:link, .link:visited {
-  color: gray;
-  text-decoration: none;
+    color: gray;
+    text-decoration: none;
 }
 
 .link:hover, .link:active {
-  color: blue;
-  text-decoration: none;
+    color: blue;
+    text-decoration: none;
 }
